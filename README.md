@@ -6,14 +6,14 @@ This GitHub repository serves as a showcase for my past projects and technical c
 
 ## Aims of the Web App:
 
-### 1.
-Project Showcase:** Display a portfolio of my past projects, highlighting technical skills and accomplishments.
+### 1.Project Showcase:
+Display a portfolio of my past projects, highlighting technical skills and accomplishments.
 
-### 2.
-Developer Interaction:** Facilitate communication with fellow developers through a blog section, encouraging discussions, feedback, and knowledge exchange.
+### 2.Developer Interaction:
+Facilitate communication with fellow developers through a blog section, encouraging discussions, feedback, and knowledge exchange.
 
-### 3.
-Client Engagement:** Act as a platform for potential customers to explore my work and services. Encourage clients to provide project offers and initiate discussions for new website development.
+### 3.Client Engagement:
+Act as a platform for potential customers to explore my work and services. Encourage clients to provide project offers and initiate discussions for new website development.
 
 Feel free to tailor and expand upon these points to best suit your specific goals and the features of your web app.
 
