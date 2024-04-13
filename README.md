@@ -1,21 +1,27 @@
-# PersonalWebapp
+# MTUBE
 
-## Description:
+## Overview
 
-This GitHub repository serves as a showcase for my past projects and technical capabilities. The web app is designed not only to exhibit my work but also to foster communication within the developer community through a dedicated blog section.
+It is a web application designed to showcase YouTube videos alongside other content such as a homepage, about page, and contact page. It provides users with a seamless experience to explore, watch, and engage with curated video content.
 
-## Aims of the Web App:
+## Features
 
-### 1.Project Showcase:
-Display a portfolio of my past projects, highlighting technical skills and accomplishments.
+Video Showcase: Display YouTube videos seamlessly integrated into your website.
+Homepage: A welcoming landing page providing an overview of your website's offerings.
+About Page: Share information about your brand, mission, and team.
+Contact Page: Enable users to get in touch with you easily.
 
-### 2.Developer Interaction:
-Facilitate communication with fellow developers through a blog section, encouraging discussions, feedback, and knowledge exchange.
+## Technologies Used
 
-### 3.Client Engagement:
-Act as a platform for potential customers to explore my work and services. Encourage clients to provide project offers and initiate discussions for new website development.
+Framework: Next.js
+Frontend: React, HTML, CSS
+Deployment: Vercel
+Other: JavaScript, YouTube API
 
-Feel free to tailor and expand upon these points to best suit your specific goals and the features of your web app.
+## Contributing
 
-## Figma wireframe: 
-https://www.figma.com/file/nsYLl0q3grzkCSoD0f64XV/PersonalWebapp?type=design&node-id=1111%3A16239&mode=design&t=UEzcRKBWOuVoqNsH-1
+Contributions are welcome! Please let me know by message before submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License.
